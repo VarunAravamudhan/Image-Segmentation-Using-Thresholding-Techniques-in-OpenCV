@@ -1,3 +1,4 @@
+
 # Image Segmentation Using Thresholding Techniques in OpenCV
 
 ## AIM
@@ -70,8 +71,7 @@ See the Python notebook for the complete implementation.
 
 ### 3. Adaptive Thresholding
 
-
-
+<img width="871" height="242" alt="Screenshot 2026-11-18 085032" src="https://github.com/user-attachments/assets/6d77ab83-a07e-4688-aabe-2ec773da2ac0" />
 
 
 
@@ -82,6 +82,7 @@ See the Python notebook for the complete implementation.
 
 ### 5. Comparison
 
+<img width="1240" height="762" alt="Screenshot 2026-11-18 085055" src="https://github.com/user-attachments/assets/6d78917f-816a-4f76-b393-042bf8a226f9" />
 
 
 
